@@ -1,0 +1,23 @@
+h1 {
+    background-color: darksalmon;
+    text-align: center;
+    color: white;
+    font-family: "Garamond", serif;
+}
+
+li {
+    color: white;
+    font-family: "Garamond", serif;
+}
+
+.tofu {
+    background-color: rgb(144, 255, 248);  
+}
+
+.steak {
+    background-color: rgb(82, 242, 151);
+}
+
+.salmon {
+    background-color: rgb(235, 118, 235);
+}

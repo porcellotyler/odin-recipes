@@ -1,0 +1,22 @@
+* {
+    font-family: "Garamond", serif;
+}
+.intro {
+    background-color: bisque;
+}
+h1 {
+    background-color: green;
+    color: white;
+}
+img {
+    height: auto;
+    width: 500px;
+}
+h3 {
+    background-color: aquamarine;
+    text-align: center;
+}
+li {
+    background-color: lightcyan;
+    text-align: center;
+}
